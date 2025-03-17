@@ -1,5 +1,5 @@
 # pinculo.github.io
-🚀 Meu Portfólio - pinculo.github.io
+🚀 Meu Portfólio - pinculo
 
 Bem-vindo ao meu portfólio de desenvolvedor! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades em programação e desenvolvimento web.
 
