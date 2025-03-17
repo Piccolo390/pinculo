@@ -1,24 +1,12 @@
-# pinculo
-🚀 Meu Portfólio - pinculo
+# React + Vite
 
-Bem-vindo ao meu portfólio de desenvolvedor! Aqui você encontrará uma coleção dos meus projetos, mostrando minhas habilidades em programação e desenvolvimento web.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🔹 Sobre o Portfólio
+Currently, two official plugins are available:
 
-Este site foi criado para apresentar meus trabalhos e experiências como programador. Ele inclui:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-✔ Uma breve apresentação sobre mim
+## Expanding the ESLint configuration
 
-✔ Projetos desenvolvidos, com links para código e demonstrações
-
-✔ Contato e redes sociais
-
-🔹 Tecnologias Utilizadas
-HTML5, CSS3 e JavaScript
-GitHub Pages para hospedagem
-
-(Opcional: React, Bootstrap, Tailwind, etc., se for usar algo mais)
-
-🔹 Acesse o Portfólio
-
-🔗 pinculo.github.io
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
