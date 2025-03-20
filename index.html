@@ -5,6 +5,22 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>
+    
+    import { Button } from "@/components/ui/button";
+
+export default function Navbar() {
+  return (
+    <nav className="w-full flex justify-between items-center p-4 bg-gray-900 text-white">
+      <h1 className="text-xl font-bold">Meu Site</h1>
+      <div className="space-x-4">
+        <Button variant="ghost">Home</Button>
+        <Button variant="ghost">Sobre</Button>
+        <Button variant="ghost">Contato</Button>
+      </div>
+    </nav>
+  );
+}
+
   </head>
   <body>
     <div id="root">aaaaaaaa</div>
